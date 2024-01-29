@@ -1,7 +1,6 @@
 - 👋 Hiya!
  I’m  Philip but you can call me Chuks-Chuks. 😉.
- 👀 I’m interested in machine learning and data engineering.
-- 🌱 I’m currently learning Python to get with the basics and would delve into other frameworks to help with my development. 
+ 👀 I’m a self-taught Python developer in machine learning and data engineering.
 - 💞️ I’m looking to collaborate on projects that will help improve on my skills and impact positively on my journey. 
 
 
