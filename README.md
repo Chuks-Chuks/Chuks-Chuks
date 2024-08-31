@@ -1,6 +1,6 @@
 - 👋 Hiya!
  I’m  Philip but you can call me Chuks-Chuks. 😉.
- 👀 I’m a self-taught Python developer in machine learning and data engineering.
+ 👀 I’m a self-taught Python developer and data engineer.
 - 💞️ I’m looking to collaborate on projects that will help improve on my skills and impact positively on my journey. 
 
 
