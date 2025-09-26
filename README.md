@@ -5,16 +5,7 @@
 ---
 
 ### 👨💻 About Me  
-Result-driven data engineer with expertise in modern data stacks (Snowflake, dbt, Python, SQL) and a passion for solving complex data challenges at scale. Proven track record of optimizing systems to handle 10TB+ datasets, leading cloud migrations with 40-70% efficiency gains, and enabling data-driven decision-making. Passionate about sports analytics and building robust, observable data infrastructure.
-
----
-
-### 🏆 Key Achievements  
-- **Scalability**: Migrated legacy systems to Azure Synapse/Snowflake, enabling 10x data growth and cutting report generation time by 50% for 15TB+ datasets.  
-- **Data Quality**: Automated GDPR-compliant data checks, reducing errors by 30% and ensuring 99.5% accuracy.  
-- **Revenue Impact**: Built A/B testing frameworks for Power BI dashboards, driving a 15% revenue increase.  
-- **Leadership**: Mentored 3 junior engineers, accelerating project delivery by 20%.  
-
+It's music, it's data, it's coding!
 ---
 
 ### 🛠️ Technical Skills  
